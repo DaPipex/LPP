@@ -1,7 +1,7 @@
 #include "PluginSDK.h"
 #include "Vector3.h"
 
-#define PIPEX_DEBUG
+//#define PIPEX_DEBUG
 
 PluginSetup("PippyAshe")
 
